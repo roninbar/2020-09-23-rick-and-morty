@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { RickAndMorty } from './features/rick-and-morty/RickAndMorty';
+import RickAndMorty from './features/rick-and-morty/RickAndMorty';
 import logo from './logo.svg';
 
 function App() {
